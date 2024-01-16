@@ -1,4 +1,6 @@
-# Obsidian Sample Plugin
+# Obsidian Hard Format Sort
+
+A plugin for obsidian for automatically sorting specific file extensions within a vault.
 
 This is a sample plugin for Obsidian (https://obsidian.md).
 
